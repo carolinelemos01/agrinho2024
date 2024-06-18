@@ -13,7 +13,7 @@ background: linear-gradient(45deg, #9fdd86 0%,#294e26ab 100%);
  
 }
 h1 {
-font-size: 20px; 
+font-size: 40px; 
 font-family: Caveat ;
 
 }
@@ -25,21 +25,21 @@ font-size: 30px;
 }
 h3{
 
-    font-size: 30px;
+    font-size: 80px;
     font-family: Dancing Script;
 }
 h4{
 
-    font-size: 30px;
+    font-size: 70px;
     font-family:Dancing Script;
 }
 h5{
 
-    font-size: 30px;
+    font-size: 50px;
     font-family:Dancing Script;
 }
 .img1{
-    width: 30%;
+    width: 50%;
     align-items: center;
 }
 .img2{
