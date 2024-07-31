@@ -28,18 +28,25 @@ header {
     font-size: 40px;
 }
 h2{
-    font-size: 40px;
+    font-size: 50px;
     font-family: Dancing+Script;
     text-align: center;
 }
 h1{
+    font-size: 40px;
+    font-family: Dancing+Script;
+    text-align: center;
+}
+h3{
     font-size: 30px;
     font-family: Dancing+Script;
     text-align: center;
 }
+
 p{
     font-size: 25px;
     font-family: Dancing+Script;
+    text-align: center;
 }
 .img{
     width: 40%;
