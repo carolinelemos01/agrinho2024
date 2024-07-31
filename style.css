@@ -2,13 +2,13 @@
  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap');
  :root {
     --claro: rgb(230, 154, 179);
-    --verde: rgba(155, 216, 130, 0.89);
-    --verde-escura: #d8abbc;
+    --rosa: rgba(217, 85, 221, 0.678);
+    --rosa-escura: #d8abbc;
     --branca: #fff;
     --luz: rgb(212, 207, 202);
 }
 body {
-    background-image: linear-gradient( #b3eeb1 40%,#ec9ec3dc 60%);
+    background-image: linear-gradient( #9f3eb8 40%,#ecbfd4 60%);
     font-family: Dancing+Script;
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: #e09cc4d8;
+    background-color: #db4ce0d8;
     color: #fff;
     text-align: center;
     padding: 20px 0;
