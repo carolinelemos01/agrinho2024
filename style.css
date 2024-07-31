@@ -1,50 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap')
+ @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap');
  :root {
-    --claro: rgba(150, 204, 137, 0.288);
+    --claro: rgb(230, 154, 179);
     --verde: rgba(155, 216, 130, 0.89);
-    --verde-escura: hwb(152 40% 36%);
+    --verde-escura: #d8abbc;
     --branca: #fff;
     --luz: rgb(212, 207, 202);
-  }
-    body{
-
-background: linear-gradient(45deg, #9fdd86 0%,#294e26ab 100%);
- 
 }
-h1 {
-font-size: 40px; 
-font-family: Caveat ;
-
+body {
+    background-image: linear-gradient( #b3eeb1 40%,#ec9ec3dc 60%);
+    font-family: Dancing+Script;
+    margin: 0;
+    padding: 0;
+  
 }
 
+header {
+    background-color: #e09cc4d8;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.campo{
+    font-size: 40px;
+}
+.cidade{
+    font-size: 40px;
+}
 h2{
-
-font-size: 30px; 
-
+    font-size: 40px;
+    font-family: Caveat;
+    text-align: center;
 }
-h3{
-
-    font-size: 80px;
-    font-family: Dancing Script;
+h1{
+    font-size: 30px;
+    font-family: Dancing+Script;
+    text-align: center;
 }
-h4{
-
-    font-size: 70px;
-    font-family:Dancing Script;
+p{
+    font-size: 25px;
 }
-h5{
-
-    font-size: 50px;
-    font-family:Dancing Script;
-}
-.img1{
-    width: 50%;
-    align-items: center;
-}
-.img2{
-    width: 25%;
-    align-items: center;
-}
-
-
